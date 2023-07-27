@@ -2,10 +2,10 @@
 
 Project: Recipes From TheOdinProject
 
-HTML Skills:
-    - Headings
-    - Links
-    - Lists
-    - Files
-    - Images
-    - Pages
+HTML Skills: 
+- Headings
+- Links
+- Lists
+- Files
+- Images
+- Pages
