@@ -11,7 +11,7 @@ body {
 
 a { 
   text-decoration: none;
-  color: #313131;
+  color: #4a0000;
 }
 
 a:hover {
@@ -35,15 +35,26 @@ ul {
 }
 
 li {
-  margin-bottom: 5px;
+  display: inline-block;
+  width: 200px;
+  padding: 10px;
+  background: #00b5cd;
+  border-radius: 10px;
+  margin: 10px;
+}
+li>img {
+  width: 190px;
+  height: 190px;
+  object-fit: cover;
 }
 
 div#cont {
-  margin: auto;
-  width: 50%;
+  display: block;
+  margin: 0px auto;
+  /* width: 50%; */
   text-align: center;
   padding: 10px;
-  max-width: 400px;
+  /* max-width: 400px; */
 }
 
 p {
